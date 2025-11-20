@@ -107,3 +107,11 @@ A: A bit is a single binary digit (0 or 1), while a byte is a group of 8 bits. B
 
 **Course Navigation:**  
 ← Previous: [Course Introduction] | Next: [Chapter 2 - Analog Signals](../ch2_analog_signals/) →
+
+---
+
+## Authorship
+Authored by Maxwell Hauser on November 19, 2025
+
+## License
+MIT License
